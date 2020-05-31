@@ -1,0 +1,4 @@
+Las funciones son metodos realizados con el lenguaje del motor de base de datos, en este caso PLSQL de Oracle
+Dichas funciones se encargar de ejecutar lgún proceso y nos retornan un valor como resultado, cabe aclarar que
+este tipo de funciones se almacenan directamente en la base de datos y nosotros solo debemos hacer su llamado desde
+el codigo Java

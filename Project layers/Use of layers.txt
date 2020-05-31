@@ -1,0 +1,1 @@
+Each layer can have one different design pattern depending of the need

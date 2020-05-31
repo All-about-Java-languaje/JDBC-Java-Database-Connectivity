@@ -1,0 +1,1 @@
+Have all logic necessary for comply with de functionality of the system

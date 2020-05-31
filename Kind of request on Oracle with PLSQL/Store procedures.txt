@@ -1,0 +1,8 @@
+Los store procedures son peticiones muy complejas las cuales serian muy dificiles de elaborar dentro de nuestro programa
+Java, es por eso que se solicita de tal manera que la base de datos se encarga de hacer esa ejecucion y solo ejecuta el proceso y/o nos devuelva la información que nos
+interesa
+
+Los Store procedures o procedimientos almacenados son son querys hechos directamente dentro de la base de datos con el
+lenguaje propio de la misma, como en el caso de Oracle lo es PLSQL, existen funciones y procedimientos
+las funciones nos retornan un valor mientras que los procedimientos realizan cambios o actualizaciones en la base de datos y no nos retornan ningún valor, como
+pueden ser actualizaciones, eliminación, entre otras.

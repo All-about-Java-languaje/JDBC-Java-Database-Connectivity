@@ -1,0 +1,2 @@
+Los cursores son un tipo de dato que maneja Oracle como response, en lugar de un String o Int devuelve este tipo de
+dato que posteriormente deberá ser procesado para su uso correcto con el Lenguaje Java
