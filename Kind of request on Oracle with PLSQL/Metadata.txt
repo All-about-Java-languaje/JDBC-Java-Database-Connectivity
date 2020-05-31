@@ -1,0 +1,5 @@
+Los metadatos de una base de datos son especificaciones a cerca de como esta conformada una tabla,
+la base de datos como tal, etc.
+
+Un emjemplo claro de metadatos en un DDBB puede ser el numero de columnas que contiene una tabla, el tipo de dato de
+una columna, si esta acepta o no valores nulos entre otros más, nos puede servir para conocer el estado de las mismas
